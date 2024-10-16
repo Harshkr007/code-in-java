@@ -17,7 +17,7 @@ public class MoveNegativeElementsToEnd {
             arr[i] = Integer.parseInt(num[i]);
         }
 
-        Solution5 sol = new Solution5();
+        Solution sol = new Solution();
 
         sol.segregateElements(arr);
 
@@ -28,7 +28,7 @@ public class MoveNegativeElementsToEnd {
         }
     }
 }
-class Solution5 {
+class Solution {
     public void segregateElements(int[] arr) {
         int n = arr.length;
         int[] ans = new int[n];
