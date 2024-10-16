@@ -1,5 +1,5 @@
 /*
-    This program identifies the equilibrium point in an array, where the sum of elements to the left equals the sum of elements to the right. It reads the array size and elements from user input, then uses an optimized approach to find the equilibrium point. If found, the program displays elements before and after it; otherwise, it indicates no such point exists.
+    *This program identifies the equilibrium point in an array, where the sum of elements to the left equals the sum of elements to the right. It reads the array size and elements from user input, then uses an optimized approach to find the equilibrium point. If found, the program displays elements before and after it; otherwise, it indicates no such point exists.
  */
 
 
