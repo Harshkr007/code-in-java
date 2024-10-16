@@ -1,4 +1,6 @@
-//this code is used to ratoate the array elemnts by 1 position;
+/*
+ * This Java program rotates an array of integers to the right by one position. It takes input for the size of the array and its elements, then swaps the last element with the first, adjusting the rest of the elements using XOR for efficiency. Finally, it prints the modified array.
+ */
 
 import java.io.BufferedReader;
 import java.io.IOException;

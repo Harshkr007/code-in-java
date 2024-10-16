@@ -1,4 +1,8 @@
-import java.io.BufferedReader;
+/*
+ * This program rotates an integer array by a specified number of positions. It reads the array size and elements from user input, then uses a three-step reversal technique to efficiently perform the rotation, outputting the modified array after the operation. The solution runs in O(n) time complexity
+ */
+
+ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 

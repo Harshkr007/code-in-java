@@ -1,6 +1,8 @@
-//this a java code which can be used to check if two given arrays are equals or not based on  the values in the array 
+/*
+ * This program checks whether two arrays contain the same elements with the same frequency, regardless of their order. It reads two arrays from user input and compares them using a HashMap to track element counts. If both arrays match in size and content, it prints "Yes"; otherwise, "No".
+ */
 
-import java.io.BufferedReader;
+ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.HashMap;

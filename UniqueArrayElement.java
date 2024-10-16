@@ -1,5 +1,5 @@
 /*
-    This program removes duplicate elements from a sorted array, ensuring that only unique elements remain. It reads the array size and elements from user input, stores them in a list, and uses a two-pointer approach to overwrite duplicates. The program outputs the unique elements while maintaining the original order.
+    *This program removes duplicate elements from a sorted array, ensuring that only unique elements remain. It reads the array size and elements from user input, stores them in a list, and uses a two-pointer approach to overwrite duplicates. The program outputs the unique elements while maintaining the original order.
  */
 
 import java.io.BufferedReader;

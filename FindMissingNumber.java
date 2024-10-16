@@ -1,4 +1,6 @@
-//this code is used to find the missing number in the array of number 1 to n
+/*
+ * This program finds a missing number from an array containing values from 1 to n, with one number missing. It takes user input for n and the array elements. Using the sum formula for the first n natural numbers, it computes the missing number by subtracting the sum of the given elements from the expected total.
+ */
 
 import java.util.Scanner;
 
@@ -15,7 +17,7 @@ public class FindMissingNumber {
 
         // Input the array elements
         System.out.print("Enter the values of array separated by space: ");
-        sc.nextLine();  // Consume the newline character left by nextInt()
+        sc.nextLine(); // Consume the newline character left by nextInt()
         String[] num = sc.nextLine().trim().split(" ");
 
         // Fill the array

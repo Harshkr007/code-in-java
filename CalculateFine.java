@@ -1,4 +1,6 @@
-//this alogrithm is designed to find the total fine colleded on some specific date based on the date is even or odd
+/*
+ * This program calculates the total fine collected based on the parity of car numbers and the given date. If the date is odd, cars with even numbers are fined, and vice versa. It reads car numbers, fines, and the date as input, computes the total fine accordingly, and displays the result.
+ */
 
 import java.io.BufferedReader;
 import java.io.IOException;

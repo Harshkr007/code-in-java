@@ -1,3 +1,7 @@
+/*
+ * This Java program searches for a target element in a 2D matrix using an optimized binary search approach. After accepting the matrix dimensions and its elements, it employs binary search on the last column to identify the appropriate row, followed by another binary search within that row to locate the target, returning true or false accordingly.
+ */
+
 import java.util.*;
 
 public class SearchInMatrix_1 {

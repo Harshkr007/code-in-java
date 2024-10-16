@@ -1,5 +1,5 @@
 /*
-    This program sorts an array consisting of only 0s, 1s, and 2s using the Dutch National Flag algorithm. It efficiently rearranges the elements in a single pass with three pointers: one for 0s, one for 1s, and another for 2s. The result is a sorted array printed to the console.
+    *This program sorts an array consisting of only 0s, 1s, and 2s using the Dutch National Flag algorithm. It efficiently rearranges the elements in a single pass with three pointers: one for 0s, one for 1s, and another for 2s. The result is a sorted array printed to the console.
  */
 
  import java.io.BufferedReader;

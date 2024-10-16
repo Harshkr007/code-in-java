@@ -1,5 +1,5 @@
 /*
-  This algorithm replaces every element in an array with the greatest element found to its right side. It starts from the end of the array, keeping track of the maximum value seen so far. As it moves left, it updates elements accordingly, ensuring efficient transformation.
+  *This algorithm replaces every element in an array with the greatest element found to its right side. It starts from the end of the array, keeping track of the maximum value seen so far. As it moves left, it updates elements accordingly, ensuring efficient transformation.
  */
 
 

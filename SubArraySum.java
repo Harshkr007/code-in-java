@@ -1,5 +1,5 @@
 /*
-    This program identifies a continuous subarray within a given array whose elements sum up to a specified target. It reads the array size and elements from user input and utilizes an optimized sliding window approach to find the subarray. If the sum is found, the program prints the subarray, else it indicates that no such sum exists.
+    *This program identifies a continuous subarray within a given array whose elements sum up to a specified target. It reads the array size and elements from user input and utilizes an optimized sliding window approach to find the subarray. If the sum is found, the program prints the subarray, else it indicates that no such sum exists.
  */
 
 

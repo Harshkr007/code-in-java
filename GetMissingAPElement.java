@@ -1,4 +1,6 @@
-//this code is used to check and find the missing value in an AP
+/*
+ * This program finds the missing element in an arithmetic progression (AP) sequence. It uses binary search to efficiently locate the missing value. The sequence must contain at least two numbers. If the missing element is identified, it is printed; otherwise, it notifies the user that the sequence is either complete or invalid.
+ */
 
 import java.io.BufferedReader;
 import java.io.IOException;
