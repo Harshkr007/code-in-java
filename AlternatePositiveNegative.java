@@ -19,7 +19,7 @@ public class AlternatePositiveNegative {
            list.add(Integer.parseInt(num[i]));
         }
 
-        Solution1 sol = new Solution1();
+        Solution sol = new Solution();
         sol.rearrange(list);
 
         System.out.println("Elemnts after modification: ");
@@ -28,7 +28,7 @@ public class AlternatePositiveNegative {
         }
    } 
 }
-class Solution1 {
+class Solution {
     void rearrange(ArrayList<Integer> arr) { 
         ArrayList<Integer> positive = new ArrayList<>();
         ArrayList<Integer> negative = new ArrayList<>();

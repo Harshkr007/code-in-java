@@ -22,7 +22,7 @@ public class EquilibriumPoint {
             arr[i] = Long.parseLong(num[i]);
         }
 
-        Solution2 sol = new Solution2();
+        Solution sol = new Solution();
         int idx = sol.equilibriumPoint(arr);
 
         if(idx == -1){
@@ -40,7 +40,7 @@ public class EquilibriumPoint {
         }
     }
 }
-class Solution2 {
+class Solution {
     public int equilibriumPoint(long arr[]) {
         int n = arr.length;
         
